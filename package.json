@@ -1,4 +1,5 @@
 {
+  "name": "nestjs-deploy-test",
   "private": true,
   "workspaces": ["nestjs-deploy-test", "nestjs-clerk-test", "nextjs-clerk-test"]
 }
